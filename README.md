@@ -49,15 +49,3 @@ source("scraping.R")
 Outputs are saved to the working directory.
 
 ---
-
-## Repository Structure
-
-```
-scraping.R
-f1_drivers.csv
-f1_champions_pilots.csv
-f1_champions_countries.csv
-README.md
-```
-
----
